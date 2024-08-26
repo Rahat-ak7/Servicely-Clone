@@ -7,7 +7,7 @@ import About from "./components/About";
 import Home from "./components/Home";
 import { Services } from "./components/Services";
 import Review from "./components/Review";
-import Form from "./components/form";
+import Form from "./components/Form";
 import Loginform from "./components/LoginForm/Loginform";
 
 function App() {
